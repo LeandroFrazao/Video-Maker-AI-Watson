@@ -1,0 +1,28 @@
+{
+  "name": "video-maker-ai-watson",
+  "version": "1.0.0",
+  "description": "To use AI to produce video on youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroFrazao/Video-Maker-AI-Watson.git"
+  },
+  "keywords": [
+    "AI",
+    "WATSON",
+    "NODEJS",
+    "YOUTUBE"
+  ],
+  "author": "Leandro Frazão (LStark)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeandroFrazao/Video-Maker-AI-Watson/issues"
+  },
+  "homepage": "https://github.com/LeandroFrazao/Video-Maker-AI-Watson#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
