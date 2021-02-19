@@ -23,6 +23,11 @@
   },
   "homepage": "https://github.com/LeandroFrazao/Video-Maker-AI-Watson#readme",
   "dependencies": {
-    "readline-sync": "^1.4.10"
+    "algorithmia": "^0.3.10",
+    "dotenv": "^8.2.0",
+    "imdb-scrapper": "^2.3.1",
+    "readline-sync": "^1.4.10",
+    "rss-parser": "^3.11.0",
+    "sbd": "^1.0.18"
   }
 }
